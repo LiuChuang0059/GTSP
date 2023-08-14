@@ -1,0 +1,62 @@
+brotlipy==0.7.0
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cryptography @ file:///croot/cryptography_1673298753778/work
+cycler==0.11.0
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+dgl==0.9.1.post1
+easydict==1.10
+einops==0.6.0
+filelock==3.9.0
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+fonttools==4.38.0
+huggingface-hub==0.11.1
+idna @ file:///croot/idna_1666125576474/work
+importlib-metadata==6.0.0
+Jinja2 @ file:///croot/jinja2_1666908132255/work
+joblib @ file:///croot/joblib_1666298844297/work
+kiwisolver==1.4.4
+littleutils==0.2.2
+MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
+matplotlib==3.5.3
+mkl-fft==1.3.1
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626179032232/work
+mkl-service==2.4.0
+networkx==2.6.3
+numpy @ file:///opt/conda/conda-bld/numpy_and_numpy_base_1653915516269/work
+ogb==1.3.5
+outdated==0.2.2
+packaging==23.0
+pandas==1.3.5
+Pillow==9.3.0
+psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PyGSP==0.5.1
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
+python-dateutil==2.8.2
+pytz==2022.7
+PyYAML==6.0
+regex==2022.10.31
+requests @ file:///opt/conda/conda-bld/requests_1657734628632/work
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1642601761909/work
+scipy @ file:///opt/conda/conda-bld/scipy_1661390393401/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sortedcontainers==2.4.0
+termcolor==2.2.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tokenizers==0.13.2
+torch==1.11.0
+torch-cluster @ file:///usr/share/miniconda/envs/test/conda-bld/pytorch-cluster_1656602876687/work
+torch-geometric @ file:///usr/share/miniconda/envs/test/conda-bld/pyg_1665660954768/work
+torch-scatter @ file:///usr/share/miniconda/envs/test/conda-bld/pytorch-scatter_1656600931603/work
+torch-sparse @ file:///usr/share/miniconda/envs/test/conda-bld/pytorch-sparse_1665388422864/work
+torchaudio==0.11.0
+torchvision==0.12.0
+tqdm @ file:///opt/conda/conda-bld/tqdm_1664392687731/work
+transformers==4.25.1
+typing_extensions @ file:///croot/typing_extensions_1669924550328/work
+urllib3 @ file:///croot/urllib3_1670526988650/work
+zipp==3.11.0
