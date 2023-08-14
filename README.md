@@ -28,7 +28,7 @@ More dependencies are provided in **requirements.txt**.
 
 Once the requirements are fulfilled, use this command to run Gapformer:
 
-`sh test.sh`
+`sh test.sh/run.sh`
 
 <h2> Datasets </h2>
 
