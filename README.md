@@ -1,8 +1,5 @@
 <h1> Exploring Sparsity in Graph Transformers </h1>
 
-Open-sourced implementation for AAAI 2024 Submission (Paper ID: 4898).
-
-
 <h2> Abstract </h2>
 
 1. Graph Transformers (GTs) have achieved impressive results on various graph-related tasks. However, the huge computational cost of GTs hinders their deployment and application, especially in resource-constrained environments. Therefore, in this paper, we explore the feasibility of sparsifying GTs, a significant yet under-explored topic.
